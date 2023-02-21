@@ -23,7 +23,7 @@ pipeline {
     } 
     
  
-    stage ('Report') {
+    stage ('CxOne') {
      steps {
             //sh 'chmod +777 /var/lib/jenkins/workspace/CICD'
             //sh 'sudo cp -r /var/lib/jenkins/workspace/CICD /var/www/html' 
